@@ -114,6 +114,8 @@ http://www.instructables.com/id/Raspberry-Pi-Alamode-CNC-Controller/
 
 ## References
 
+- http://www.plasmaspider.com/
+-
 - pro cheap tables: https://www.trucutcnc.com/s1.html
 
 - https://planet-cnc.com/tag/plasma-cutting/
